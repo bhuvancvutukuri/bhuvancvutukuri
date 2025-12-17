@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Bhuvan 👋
 
-<!--
-**bhuvancvutukuri/bhuvancvutukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science graduate with hands-on experience in exploratory data analysis, data mining, and natural language processing.  
+📊 I enjoy turning raw data into insights using Python, SQL, and visualization tools.  
+🔍 Interested in Data Analyst, Data Science, and ML-focused roles.
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, EDA  
+- **Visualization:** Plotly, Dash, Tableau  
+- **Machine Learning:** scikit-learn, Data Mining, NLP  
+- **Tools:** Git, GitHub, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **GreenPulse:** Urban tree health analysis & interactive dashboards  
+- **Semantic Drift:** NLP analysis of meaning change using word embeddings  
+- **Wine Data Mining:** ML-based classification and feature analysis
+
+📫 **Reach me:** bhuvancvutukuri@gmail.com
